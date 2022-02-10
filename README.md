@@ -68,16 +68,16 @@ An aspiring full-stack developer with a specialization in MERN stack with a pass
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikRiyazuddin&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikRiyazuddin&layout=compact) -->
 
-<h2 align="center">📊 My Github Stats<h2>
+<!-- <h2>📊 My Github Stats<h2> -->
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MohdTazammul&theme=radical" alt="Mohd Tazammul" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=MohdTazammul&show_icons=true&theme=radical" height="255px" width="47%"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ShaikRiyazuddin&theme=radical" alt="Mohd Tazammul" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ShaikRiyazuddin&show_icons=true&theme=radical" height="255px" width="47%"/>
 <div>
   </br>
   
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdTazammul&theme=radical&langs_count=8" alt="Mohd Tazammul" height="260px" width="25%" />
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=MohdTazammul&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikRiyazuddin&theme=radical&langs_count=8" alt="Mohd Tazammul" height="260px" width="25%" />
+  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=ShaikRiyazuddin&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
 <div>
 
 
