@@ -42,7 +42,7 @@ A dedicated and efficient Full-Stack Web Developer skilled in MERN stack.
 ## 🤖👾 My Projects...
 
 <p dir="auto">
-<a href="https://github.com/ShaikRiyazuddin/Pantaloons.git"><img src="https://banner2.cleanpng.com/20180605/taw/kisspng-pantaloons-fashion-retail-pt-new-delhi-saket-bra-fashion-retail-5b166131f3e189.688621151528193329999.jpg" alt="pantaloons" style="width: 18%; height: 45px;"></a>&nbsp;&nbsp;<br>
+<a href="https://github.com/ShaikRiyazuddin/Pantaloons.git"><img src="https://pantaloons.imgix.net/img/app/brands/pantaloons/icons/logo_pantaloons.svg" alt="pantaloons" style="width: 18%; height: 45px;"></a>&nbsp;&nbsp;<br>
 <a href="https://github.com/ShaikRiyazuddin/Intershala-Clone.git"><img src="https://internshala.com/static/images/common/new_internshala_logo.svg" alt="Fabindia" style="width: 18%; height: 45px"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br/>
