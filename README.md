@@ -64,7 +64,7 @@ An aspiring full-stack developer with a specialization in MERN stack with a pass
 
 ## 🖋⌨Most Used Languages in Github...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikRiyazuddin&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikRiyazuddin&layout=compact)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikRiyazuddin&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikRiyazuddin&layout=compact) -->
 
 <div>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MohdTazammul&theme=radical" alt="Mohd Tazammul" height="250px" width="47%" />
