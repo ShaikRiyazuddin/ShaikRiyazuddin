@@ -1,4 +1,4 @@
-# Hi, I am Riyaz,
+# Hi, I am Riyaz
 
 A dedicated and efficient Full-Stack Web Developer skilled in MERN stack.
 
