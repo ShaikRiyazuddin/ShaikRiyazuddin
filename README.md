@@ -1,18 +1,18 @@
 # Hi, I am Riyaz
 
-A dedicated and efficient Full-Stack Web Developer skilled in MERN stack.
+An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.
 
 <img style="width:40%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <hr>
 
 ## 🙋‍♀️👩‍🎓 About me...
 
-- 📖 Learning MERN stack .
+- 📖 I'm currently learning React and Redux .
 - 👀 Keen to build and develop high-quality user-friendly platforms by using my technical knowledge and skills.
 - 👩‍ Eager to obtain a challenging position at a dynamic company to enhance my learning and contribute to exciting projects.
 - 👨‍💻 All of my projects are available at My <a href="">Portfolio</a>
 - 📫 How to reach me via Mail riyaz.itguy@gmail.com
-- ⚡ I love Music and web series
+- ⚡Fun fact: I love Music and web series
 
 <br/>
 
@@ -65,3 +65,6 @@ A dedicated and efficient Full-Stack Web Developer skilled in MERN stack.
 ## 🖋⌨Most Used Languages in Github...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikRiyazuddin&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikRiyazuddin&layout=compact)
+
+
+ <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
