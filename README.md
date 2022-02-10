@@ -75,7 +75,7 @@ An aspiring full-stack developer with a specialization in MERN stack with a pass
   </br>
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikRiyazuddin&theme=radical&langs_count=8" alt="Shaik Riyazuddin" height="400px" width="25%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikRiyazuddin&theme=radical&langs_count=8" alt="Shaik Riyazuddin" height="260px" width="25%" />
   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=ShaikRiyazuddin&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
 <div>
 
