@@ -43,7 +43,7 @@ An aspiring full-stack developer with a specialization in MERN stack with a pass
 ## 🤖👾 My Projects...
 
 <p dir="auto">
-<a href="https://github.com/ShaikRiyazuddin/Pantaloons.git"><img src="https://pantaloons.imgix.net/img/app/brands/pantaloons/icons/logo_pantaloons.svg" alt="pantaloons" style="width: 18%; height: 45px;"></a>&nbsp;&nbsp;<br>
+<a href="https://github.com/ShaikRiyazuddin/Pantaloons.git"><img src="https://i.ibb.co/WcPZhGq/pantaloons-bg.png" alt="pantaloons" style="width: 18%; height: 45px;"></a>&nbsp;&nbsp;<br>
 <a href="https://github.com/ShaikRiyazuddin/Intershala-Clone.git"><img src="https://internshala.com/static/images/common/new_internshala_logo.svg" alt="Fabindia" style="width: 18%; height: 45px"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br/>
