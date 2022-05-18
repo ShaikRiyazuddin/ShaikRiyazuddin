@@ -47,6 +47,7 @@ An aspiring full-stack developer with a specialization in MERN stack with a pass
 <a href="https://github.com/ShaikRiyazuddin/Intershala-Clone.git"><img src="https://internshala.com/static/images/common/new_internshala_logo.svg" alt="Fabindia" style="width: 18%; height: 45px"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br/>
+<a href="https://github.com/ShaikRiyazuddin/Pantaloons.git"><img src="https://www.freepnglogos.com/uploads/logo-myntra-png/myntra-com-brand-png-0.png" alt="Myntra" style="width: 18%; height: 45px;"></a>&nbsp;&nbsp;<br>
 
 ## 📧📫 Find me at...
 
