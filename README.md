@@ -8,10 +8,10 @@ An aspiring full-stack developer with a specialization in MERN stack with a pass
 
 ## 🙋‍♀️👩‍🎓 About me...
 
-- 📖 I'm currently learning React and Redux .
+- 📖 I'm currently looking for a job in MERN-Stack technologies .
 - 👀 Keen to build and develop high-quality user-friendly platforms by using my technical knowledge and skills.
 - 👩‍ Eager to obtain a challenging position at a dynamic company to enhance my learning and contribute to exciting projects.
-- 👨‍💻 All of my projects are available at My <a href="">Portfolio</a>
+- 👨‍💻 All of my projects are available at My <a href="https://riyazshaikportfolio.netlify.app/">Portfolio</a>
 - 📫 How to reach me via Mail riyaz.itguy@gmail.com
 - ⚡Fun fact: I love Music and web series
 
