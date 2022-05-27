@@ -3,7 +3,7 @@
 An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.
 
 <!-- <img style="width:40%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/> -->
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="450" height = "300">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="1000" height = "600">
 <!--   <img src="https://cdn.dribbble.com/users/1131096/screenshots/3577639/media/7a333a8ebdb4503833e31013008e12d5.png" alt="Coder GIF" width="450" height = "300"> -->
 
 <hr>
