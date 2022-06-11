@@ -1,4 +1,4 @@
-# Hi, I am Riyaz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+# Hi, I am Riyaz <img  height = "40px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 
 An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.
 
